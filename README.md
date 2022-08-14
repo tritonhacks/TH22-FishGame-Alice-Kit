@@ -1,1 +1,1 @@
-### No Starter Kit
+### NOTE: No Starter Kit
